@@ -33,7 +33,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 - create div component
 - create div for card inside compenent 
 - create div for iamge inside card
-- create div for text inside below div image
+- create div for text below div image
 - custom code using css and make it responsive using flexbox 
 
 ### Built with
