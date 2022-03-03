@@ -26,7 +26,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Live Solution URL: [Add live site URL here](https://xperaz.github.io/qr_code_challenge/)
+- Live Solution URL: [qr_code_challenge](https://xperaz.github.io/qr_code_challenge/)
 
 ## My process
 
