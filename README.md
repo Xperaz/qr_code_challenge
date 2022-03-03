@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,10 +26,15 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Solution URL: [Add live site URL here](https://xperaz.github.io/qr_code_challenge/)
 
 ## My process
+
+- create div component
+- create div for card inside compenent 
+- create div for iamge inside card
+- create div for text inside below div image
+- custom code using css and make it responsive using flexbox 
 
 ### Built with
 
@@ -38,27 +42,10 @@ Your challenge is to build out this QR code component and get it looking as clos
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-In this Exercice I learned How To implement the basic html5 stuff.
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+In this Exercice I learned How To implement the basic html5 stuff, And how to use Flexbox properties.
 
 
 ### Continued development
